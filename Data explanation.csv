@@ -1,0 +1,14 @@
+Feature,Explanation
+ Loan_ID,loan_id
+ Nos_Dep, no_of_dependents
+ Education, education
+ Self_employed, self_employed
+ Annual_income, income_annum
+ Loan_amount, loan_amount
+ Loan_Term, loan_term
+ Cibil_score, cibil_score
+ Residential_assets_value, residential_assets_value
+ Commercial_assets_value, commercial_assets_value
+ Luxury_assets_value, luxury_assets_value
+ Bank_asset_value, bank_asset_value
+ Loan_status, loan_status
